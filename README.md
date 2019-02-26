@@ -73,5 +73,12 @@ for start this project i use :
 
 - `npm -v`
 - `yarn -v`
+
+if npm and yarn is install :
+
 - `npm install -g create-react-app`
 - `npx create-react-app weather-app`
+
+for load this project :
+
+- `yarn start`
